@@ -6,5 +6,6 @@ beans
 
 bread
 cheese
+milk
 
 thank you :)
